@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Mohamed Said</h1>
 <h3 align="center">🎓 I'm a student passionate about software development and building real-world projects.</h3>
 
-- 📫 How to reach me **medsaidghoulam@gmail.com**
+- 📫 How to reach me **mohamedsaid.ghoulam@univ-tiaret.dz**
 
 ---
 
