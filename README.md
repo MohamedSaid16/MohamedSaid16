@@ -21,7 +21,7 @@
 </td>
 <td width="35%" align="center" valign="center">
 
-<img src="./assets/github-cat.png" width="230" alt="GitHub Cat">
+<img src="./assets/poptocat_v2.png" width="230" alt="GitHub Cat">
 
 </td>
 </tr>
