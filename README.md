@@ -5,6 +5,11 @@
 
 ---
 
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ## 🧠 About Me
 
 - 🎓 Passionate about software development and building real-world projects
@@ -12,6 +17,15 @@
 - 🔐 Interested in cybersecurity, ethical hacking, and system security
 - 📚 Always learning and improving my problem-solving skills
 - 🔍 Curious about how systems work — and how to secure them
+
+</td>
+<td width="35%" align="center" valign="center">
+
+<img src="./assets/github-cat.png" width="230" alt="GitHub Cat">
+
+</td>
+</tr>
+</table>
 
 ---
 
